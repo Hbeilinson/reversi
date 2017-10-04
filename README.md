@@ -1,6 +1,6 @@
 # reversi
 
-\f0\fs24 \cf0 Reversi \'97 README\
+
 Created by Hannah Beilinson, for Haverford College CS106, with Professor John Dougherty\
 \
 The module RUNME, when run will automatically start a game of Reversi.\
